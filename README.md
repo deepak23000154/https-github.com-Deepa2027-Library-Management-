@@ -1,6 +1,6 @@
 # EX NO: 2 - LIBRARY - MANAGEMENT - SYSTEM 
-# Name -Ameesha Jeffi
-# Reg No - 212223220007
+# Name - DEEPAK.R
+# Reg No - 212223040031
 
 # AIM:
 ```To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.```
